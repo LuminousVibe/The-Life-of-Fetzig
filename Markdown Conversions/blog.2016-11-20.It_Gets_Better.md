@@ -1,5 +1,10 @@
-= It Gets Better
-:hp-tags: Mental Illness, Mental Health, Depression
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Mental Illness, Mental Health, Depression
 
 This post is going to offend some people.  This post is going to make some people uncomfortable.  If you experience either of those emotions, this post is for you.
 

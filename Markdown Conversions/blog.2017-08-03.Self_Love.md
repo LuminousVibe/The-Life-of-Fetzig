@@ -1,5 +1,10 @@
-= Self-Love
-:hp-tags: Self-Love, Self-Image, Body Positivity, Gastroparesis, Invisible Illness, Chronic Illness, Mental Illness, 
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Self-Love, Self-Image, Body Positivity, Gastroparesis, Invisible Illness, Chronic Illness, Mental Illness, 
 
 On January 1st of 2016 I made a New Year’s resolution to take more selfies.  The thought process was that I was slowly drowning in a vat of self-hate and I wanted to start taking steps toward having a more healthy and loving self-image.  I considered baby steps when contemplating this journey, because I knew that turning my view of myself around would take a lot of work.  I knew this because I’d done it before.
 

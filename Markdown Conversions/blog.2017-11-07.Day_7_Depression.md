@@ -1,5 +1,10 @@
-= Day 7 - Depression
-:hp-tags: NaNo2017, Day 6, Everyday Life, Depression, Writing, Mental Illness, Mental Health
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: NaNo2017, Day 6, Everyday Life, Depression, Writing, Mental Illness, Mental Health
 
 I didn’t write yesterday.
 

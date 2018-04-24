@@ -1,5 +1,10 @@
-= A Letter to my Gastroparesis
-:hp-tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Mental Illness, Chronic Illness, Therapy,
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Mental Illness, Chronic Illness, Therapy,
 
 I visited a therapist for the first time last week and had a good conversation about my illness and my mental state.  I’ve known for a long time now that grief is part of the process of chronic illness and acceptance of the illness is necessary to continue living a healthy life after diagnosis.  I’ve known this and I’ve fought it because I don’t want to accept gastroparesis into my life and I don’t want to be ok with it.  But that refusal is tearing me apart mentally, so I went to the therapist as the first step towards acceptance.  She thinks she can help me, which makes one of us, and I think I’m at least willing to try.  Her first instruction was to write a letter to my gastroparesis making use of a prompt she gave me to get started in the right direction.  The following is the letter I’ve written, which I will read to my therapist when I see her on Wednesday:
 

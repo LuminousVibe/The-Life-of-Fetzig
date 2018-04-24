@@ -1,5 +1,10 @@
-= Happiness
-:hp-tags: Gastroparesis, Anxiety, Depression, Everyday Life, Chronic Illness, Mental Illness, Mental Health, 
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Anxiety, Depression, Everyday Life, Chronic Illness, Mental Illness, Mental Health, 
 
 I looked at my face today.  I looked at it a lot.  I looked at it before I got into the shower, I looked at it as it was rubbing on moisturizer and makeup, I took selfies and checked my makeup in a mirror after eating, and I looked in the car on the way home.  I really really looked at my face today.
 

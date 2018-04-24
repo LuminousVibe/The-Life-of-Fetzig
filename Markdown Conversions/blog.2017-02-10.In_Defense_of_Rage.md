@@ -1,5 +1,10 @@
-= In Defense of Rage
-:hp-tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Anger
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Anger
 
 I went to my new doctor yesterday.  I was forced to switch after graduating, moving back to my hometown, getting married, and switching to a new insurance company.  This whole thing with my stomach started in 2013 and since then, I’ve switched doctors and specialists at least 15 times.  Over the course of those transfers I’ve been accused of a lot of things.  I’ve had doctors tell me I’m anorexic.  I’ve had doctors accuse me of seeking drugs.  I’ve had doctors call me alcoholic and irresponsible and not worthy of their care.  So I approached this new doctor with trepidation and the thought process that I need to be prepared.  I showed up 20 minutes early with copies of my most recent blood work, gastric empting study, endoscope, and a cheat sheet of all my medications, dosages, and past doctor’s offices and contact information.
 

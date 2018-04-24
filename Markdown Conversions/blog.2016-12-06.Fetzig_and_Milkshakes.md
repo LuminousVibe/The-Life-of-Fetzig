@@ -1,5 +1,10 @@
-= Fetzig and Milkshakes
-:hp-tags: Mental Illness, Mental Health, Anxiety, Fetzig, Gastroparesis, 
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Mental Illness, Mental Health, Anxiety, Fetzig, Gastroparesis, 
 
 A lot of my life revolves around my anxiety, and a lot of people don’t really understand what that means.  If you’ve never experienced an anxiety disorder, you don’t know what that means.  There’s a difference between stress and anxiety, and there’s a difference between momentary anxiety and the type a disorder causes.  That’s not to say one person’s anxiety is more or less valid than another’s.  They’re just different.  The daily anxiety I experience is different than the anxiety you experience when you failed to study for a test, which is different than the stress you feel while doing your math homework.  It’s possible to feel all of these types of anxiety at once and it’s possible to feel only one.  I’m just saying a lot of people don’t understand what a medically diagnosed anxiety disorder entails.
 

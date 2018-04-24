@@ -1,5 +1,10 @@
-= Living on Borrowed Time
-:hp-tags: Gastroparesis, Mental Illness, Public Health, Donald Trump
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Mental Illness, Public Health, Donald Trump
 
 As I write this, my hands are shaking.
 

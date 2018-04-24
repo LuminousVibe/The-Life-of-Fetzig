@@ -1,5 +1,10 @@
-= For Pounce
-:hp-tags: In Memorial,
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: In Memorial,
 
 Hello my kitten, my baby, my beauty, my friend.
  

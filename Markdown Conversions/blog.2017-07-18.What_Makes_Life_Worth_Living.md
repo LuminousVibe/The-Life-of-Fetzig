@@ -1,5 +1,10 @@
-= What Makes Life Worth Living?
-:hp-tags: Everyday Life, Anxiety, Depression, Gastroparesis, Suicide, Invisible Illness, Chronic Illness, Mental Illness, 
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Everyday Life, Anxiety, Depression, Gastroparesis, Suicide, Invisible Illness, Chronic Illness, Mental Illness, 
 
 So Skoddie and I have been having a conversation over the last few weeks or months about me and my depression and what I’m doing with life and other related subjects.  Part of the issue of discussion is the question, “what do I do now?”  And this question has been plaguing me since I graduated college because, up to that point, my purpose in life and my big life altering goal had been to get my degree.
 

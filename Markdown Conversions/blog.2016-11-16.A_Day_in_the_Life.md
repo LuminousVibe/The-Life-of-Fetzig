@@ -1,5 +1,10 @@
-= A Day in the Life
-:hp-tags: Gastroparesis, Mental Illness, Mental Health, Bodily Functions, Spoon Theory
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Mental Illness, Mental Health, Bodily Functions, Spoon Theory
 
 Today I am hungry.  Today I am nauseous.
 

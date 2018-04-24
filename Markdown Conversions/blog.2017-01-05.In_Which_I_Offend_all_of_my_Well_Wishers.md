@@ -1,5 +1,10 @@
-= In Which I Offend all of my Well-Wishers
-:hp-tags: Gastroparesis, Body Positivity,
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Body Positivity,
 
 There’s this weird succession that occurs when you become sick and start losing weight.
 

@@ -1,5 +1,10 @@
-= A Little Unsteady
-:hp-tags: Mental Illness, Mental Health, Depression, Panic Attacks, 
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Mental Illness, Mental Health, Depression, Panic Attacks, 
 
 When I first thought of starting a blog, I knew there was a possibility of it being a chronicle of my descent into insanity.  I know that sounds dramatic, but in all honesty there is a very real chance of me not coming out of this illness intact.  Whether it be physically or mentally, I am going to lose something.
 

@@ -1,5 +1,10 @@
-= Day 5 - Secrets of a Postmates Delivery Driver
-:hp-tags: NaNo2017, Day 5, Everyday Life, Audiobiography, Postmates, Work, Depression, Writing,
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: NaNo2017, Day 5, Everyday Life, Audiobiography, Postmates, Work, Depression, Writing,
 
 I’m having a series of those days.  If you have depression, you know those days.  They’re the I didn’t want to get out of bed, I didn’t take a shower, I don’t want to eat, I don’t want to do anything kind of days.  And I don’t want to write.  But in a strange sort of way, that gives me hope for my writing.  I don’t want to write today in the same way that I don’t want to take a shower.  But I love taking showers.  If it wouldn’t be a complete and utter waste of water I’d probably stand in one all day and just be warm and feel the water on my skin and that would be the happiest day of my life.  
 

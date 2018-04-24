@@ -1,5 +1,10 @@
-= Dreams
-:hp-tags: Recurring Dreams, Anxiety, Life, Nightmares,
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Recurring Dreams, Anxiety, Life, Nightmares,
 
 I’ve always had a strange connection with my dreams.  Until very recently, I dreamed exclusively in nightmares.  At the same time, I almost never remember my dreams.  I knew they were nightmares because I woke up terrified, shaking, and sometimes too scared to look out from my covers to examine my room for a physical manifestation of whatever had just invaded my subconscious.  I was easily scared as a child, and because I didn’t remember my dreams, I never knew what was coming to get me.  I usually remembered a rush of noise, flashes of brightly lit and somehow unsettling colors, but nothing concrete.  Therefore, any misshapen shadow or unexplained noise could be perceived as something unknown creeping out of my nightmares into the living world.  
 

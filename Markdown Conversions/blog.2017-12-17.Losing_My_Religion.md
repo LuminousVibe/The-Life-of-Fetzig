@@ -1,5 +1,10 @@
-= Losing My Religion
-:hp-tags: Everyday Life, Religion, Gastroapresis, Depression, Anxiety, Invisible Illness, Mental Illness, Mental Health, Chronic Illness
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Everyday Life, Religion, Gastroapresis, Depression, Anxiety, Invisible Illness, Mental Illness, Mental Health, Chronic Illness
 
 This is a blog post I’ve been putting off making, mostly because it’s not a finished process and I don’t know how it’s going to turn out.  But today happened and I need to talk about it and this is where I come when I need to talk about things now.  So all I ask is that you don’t form an opinion on what I’m about to write until you read the whole thing.
 

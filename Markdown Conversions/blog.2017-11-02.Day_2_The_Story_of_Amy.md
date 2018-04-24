@@ -1,5 +1,10 @@
-= Day 2 - The Story of Amy
-:hp-tags: NaNo2017, Day 2, Everyday Life, Bullying, Audiobiography, Pre-GP
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: NaNo2017, Day 2, Everyday Life, Bullying, Audiobiography, Pre-GP
 
 Today I’m going to tell you a story.  It is a story I haven’t told many people.  Some of you were there for some of it, one of you was there for all of it, some of you have probably put together the pieces from things I’ve said in the past.  It is not the whole story, but it is a large portion of it.  And I will tell it to you without any expectation of forgiveness, understanding, or sympathy for the things I have done and the things I have yet to do.
 

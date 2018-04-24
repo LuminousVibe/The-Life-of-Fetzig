@@ -1,5 +1,10 @@
-= Weight
-:hp-tags: Gastroparesis, Invisible Illness, Chronic Illness, Body Positivity
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: Gastroparesis, Invisible Illness, Chronic Illness, Body Positivity
 
 So I’ve spent most of the day staring at an Instagram post from two years ago that showed up in my “On This Day” feed on Facebook.  It’s a picture of me the first time I had a mohawk, from my first few days at Cal, and before I had received any treatment for my Gastroparesis.  I know I hadn’t received treatment yet because another post from that feed shows me talking about how hard I struggled to get a visit with a doctor after I had moved up there.
 

@@ -1,5 +1,10 @@
-= Day 1 - NaNoWriMo, Writing, and Other Issues
-:hp-tags: NaNo2017, Day 1, Writing, Everyday Life, 
+
+
+## {{ page["post"] }}
+
+*Posted on <!--{ page["date"] }-->.*
+
+### Tags: NaNo2017, Day 1, Writing, Everyday Life, 
 
 So NaNoWriMo.  Also known as National Novel Writing Month, NaNo is a challenge accepted by writers and aspiring authors every year to write 50,000 words solely within the month of November.  If you do it, you “win” and gain bragging rights and a bumper sticker or something.  I’m not really sure.  Your icon on the NaNo website gets a little crown over it or something.  I’ve clearly never won, so I don’t actually know what happens.  
 
