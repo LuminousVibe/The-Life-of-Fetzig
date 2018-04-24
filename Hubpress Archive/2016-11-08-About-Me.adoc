@@ -1,0 +1,24 @@
+= About Me
+:hp-tags: About Me, Introduction, Gastroparesis, Mental Illness,
+
+So this is my blog.  I've spent a lot of time thinking about starting one, wondering what I would share, and how I would go about saying it.  Mostly, though, this exists for my sanity, and anything I write will be for the purpose of preserving my sanity.  
+
+I was born on November 9th of a year I will not specify.  For most of my life, I've been fairly normal and healthy.  Maybe I didn't get along with everyone, and maybe I suffered some childhood traumas that needed a little therapy to work through, but I was nothing out of the ordinary.  And yes, I consider needing a little therapy at some point ordinary.  I did well in school, got accepted into the accelerated programs at all levels, took some Advanced Placement classes and eventually graduated with a respectable GPA and many college prospects.
+
+My problems began so slowly I didn't really recognize them at first.  You see, because my parents couldn't afford to send me to the schools I wanted to attend (something I will *never* blame them for), I took a year and a half off to "find myself" (essentially do whatever I wanted) before entering my local City College to get my shit together.  It took me a while to figure out my major, and I jumped from Chemistry, to Linguistics, to Foreign Languages, before settling on English Literature.  It made sense when I finally got there.  What do I love more than anything?  Reading and writing.  Why not get a degree in it?  All the while I was watching my friends essentially speed past me, get degrees, get employed, get married, etc. while I kinda... sat.  If you asked me then, I would have said I'm going at my own pace and fuck you if you have a problem with it.  It was nice.
+
+Midway through June of 2013, I woke up nauseous.  
+
+Looking back, this wasn't the start of my anxiety disorder.  It was just the proverbial straw.  The start was that pesky trauma I mentioned, followed by not being able to go to college, followed by watching everyone around my basically live their lives without me.  It all built up into this little ball inside me that I wasn't recognizing.  And then I woke up nauseous.  And then I stayed nauseous.  And then my doctor told me I had ulcers.  And then acid reflux.  And then a bacterial infection. And a bowel disorder. And IBS. And allergies. And then... nothing.  I went through 12 doctors, untold tests and procedures, medications galor, side effects, and none of them helped.  I went from 160 pounds to 95 in 6 months.  I lived on rice and potatoes for a year.  They finally found a medication that stabilized me, but nothing made the nausea go away.  
+
+So I gave up on the doctors and I gave up on my health and I let myself deteriorate and just continued on with school.  I developed serious perfectionism, then paranoia, germaphobia, all of which bloomed into Generalized Anxiety Disorder and Depressive episodes.  My life imploded, and I let it.  I began a slow spiral into insanity and all the little things I had ignored about my life came back to haunt me.
+
+In May of 2015 I was accepted to The University of California Berkeley.  In August of 2015 I was diagnosed with Gastroparesis.
+
+Gastroparesis is the weakening or total paralysis of the stomach muscles.  The symptoms are nausea, vomiting, stomach and abdominal pains, constipation, acid reflux, loss of appitite, and weight loss.  It can be caused by diabetes, cancer, botched abdominal surgeries, certain auto-immune disorders, complications of viral infections, and old age.  I had all of those symptoms and none of those causes.  I fall into the 10-15% of cases that present idiopathic.  No known cause.  No cure.  The only treatments are certain medications that can speed the emptying of the stomach, block nausea receptors in the brain, and calm the stomach acid.  And I finally got help.  Not just with my stomach, but with my anxiety and depression.  I found an answer, I found a reason to keep going, and, with the help of my now-fiancé, I found a psychiatrist.  
+
+Now, over a year later, I also have this.  A place to come with my struggles and anxieties.  This is not a happy story with a happy ending unfortunately.  My diagnosis brought more anxiety and stress.  Attending Cal, a top university, multiplied it.  I am in a place where I don't know what to do or where to go from here.  There are no more answers to find, just the next treatment and the next day.  
+
+I guess, while accepting the risk of sounding cheesy, I hope to help others like me.  This battle has encompassed me, body and mind.  
+
+And I am not alone.
