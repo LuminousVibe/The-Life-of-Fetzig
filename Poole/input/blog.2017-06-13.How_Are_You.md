@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Anxiety, Depression, Gastroparesis, Chronic Illness, Invisible Illness, Mental Illness, Daily Life, 
+#### Tags: Anxiety, Depression, Gastroparesis, Chronic Illness, Invisible Illness, Mental Illness, Daily Life, 
  
 There are some things about foreign cultures that, when I learn them, make me wonder why the American norm is different.  In this case, when I was learning German in high school, one of the earliest lessons was greetings and how to respond to them and the grammar and sentence structures surrounding that part of German.  Naturally, they have a phrase that basically translates to the english “how are you?” or “how’s it going?” that I remember but can no longer spell.  But, the thing our teacher made very clear was the cultural difference surrounding this phrase.  In Germany, if you ask “How are you?” you get an answer.
  

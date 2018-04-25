@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Body Positivity,
+#### Tags: Gastroparesis, Body Positivity,
 
 There’s this weird succession that occurs when you become sick and start losing weight.
 

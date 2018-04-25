@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: In Memorial,
+#### Tags: In Memorial,
 
 Hello my kitten, my baby, my beauty, my friend.
  

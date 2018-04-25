@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: NaNo2017, Day 3, Everyday Life, Bullying, Sexual Assault, Audiobiography, Pre-GP
+#### Tags: NaNo2017, Day 3, Everyday Life, Bullying, Sexual Assault, Audiobiography, Pre-GP
 
 Today is a day that makes me question myself and my purpose.  Today is a day I do not want to write.  Not only because the things I am going to write about are hard for me to remember, but also because there are other things I want to do.  I want to watch YouTube and Netflix and curl in bed with my bullet journal and contemplate improvements to my life.  Or better perhaps, log onto Postmates and run some deliveries.  Make some money.
 

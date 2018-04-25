@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Chronic Illness, Mental Illness, Mental Health,
+#### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Chronic Illness, Mental Illness, Mental Health,
 
 There are two blog posts that I’ve been trying to write and I had originally split them because I thought they were completely separate problems.  But really one informs the other.  So, if while you’re reading this you feel like I lost the plot, stay with me.  
 

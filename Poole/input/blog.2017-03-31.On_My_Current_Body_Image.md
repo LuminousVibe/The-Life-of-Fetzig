@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Mental Illness, Eating Disorders, Body Positivity, Suicide, Chronic Illness, 
+#### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Mental Illness, Eating Disorders, Body Positivity, Suicide, Chronic Illness, 
 
 This is probably going to get into touchy territory for some people, but it’s something I need to get out.  So read my tags and if you can’t handle those topics, feel free not to read.
 

@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Mental Illness, Mental Health, Chronic Illness,
+#### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Mental Illness, Mental Health, Chronic Illness,
 
 I don’t know where I first heard or read this notion, whether it was a book or a movie, but it was some external media in which a character had just died and the protagonist was contemplating their death.  They said, “It felt like the world should have stopped, but it kept going.  [Character Name] was gone, and the world should have stopped to notice.  But it seemed that no one did.  The sun kept rising, the grass kept growing, and people kept living their lives around me.  But it should have stopped.”
 

@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Disabilities, 
+#### Tags: Gastroparesis, Depression, Anxiety, Invisible Illness, Disabilities, 
 
 Denial, Anger, Bargaining, Depression, and Acceptance.  These are what are known as the Five Stages of Grief, or the Five Stages of Dying depending on the situation and who you are talking to.  Basically, people who have lost or are going to lose a loved one are thought to go through these stages of emotion as they process the loss.  According to some psychologists and doctors, these stages are also relevant to people who find out they are dying, or are diagnosed with a life-changing illness or injury.  People who are paralyzed, people who have terminal cancer, people who lose a limb, the list is endless.  Many of these types of people are thought to go through this process of mourning the life they had before their particular disability or illness changed it.  It is thought to be the most healthy and common progression.  A person may not go through all the stages, and may even regress to a previous one after moving forward, but this progression is generally accepted as the norm.
 

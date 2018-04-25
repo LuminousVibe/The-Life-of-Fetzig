@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Mental Illness, Mental Health, Bodily Functions, Spoon Theory
+#### Tags: Gastroparesis, Mental Illness, Mental Health, Bodily Functions, Spoon Theory
 
 Today I am hungry.  Today I am nauseous.
 

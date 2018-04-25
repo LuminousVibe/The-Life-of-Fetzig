@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: About Me, Introduction, Gastroparesis, Mental Illness,
+#### Tags: About Me, Introduction, Gastroparesis, Mental Illness,
 
 So this is my blog.  I've spent a lot of time thinking about starting one, wondering what I would share, and how I would go about saying it.  Mostly, though, this exists for my sanity, and anything I write will be for the purpose of preserving my sanity.  
 

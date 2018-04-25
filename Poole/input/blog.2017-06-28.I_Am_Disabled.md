@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Gastroparesis, Chronic Illness, Invisible Illness, Everyday Life, Disability, Mental Illness, Mental Health, Depression, Anxiety,
+#### Tags: Gastroparesis, Chronic Illness, Invisible Illness, Everyday Life, Disability, Mental Illness, Mental Health, Depression, Anxiety,
 
 I am tired today. I've been tired for a week. I am bone-achingly, body-numbingly tired. 
 

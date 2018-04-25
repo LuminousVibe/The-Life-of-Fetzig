@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: NaNo2017, Day 6, Everyday Life, Depression, Writing, Mental Illness, Mental Health
+#### Tags: NaNo2017, Day 6, Everyday Life, Depression, Writing, Mental Illness, Mental Health
 
 I didn’t write yesterday.
 

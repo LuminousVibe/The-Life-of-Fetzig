@@ -4,7 +4,7 @@
 
 *Posted on <!--{ page["date"] }-->.*
 
-### Tags: Everyday Life, Hair, Stupidity, Gastroapresis, Depression, Anxiety, Invisible Illness, Mental Illness, Mental Health, Chronic Illness
+#### Tags: Everyday Life, Hair, Stupidity, Gastroapresis, Depression, Anxiety, Invisible Illness, Mental Illness, Mental Health, Chronic Illness
 
 When I was in seventh grade, about age 12, I asked my mom if I could dye my hair.  I don’t remember where the desire came from, nor why I chose pink as my first color.  I hated the color pink and I had always been told I should love my “beautiful long blonde” hair.  But for some reason I wanted to experiment and for some reason my mom agreed.  
 
